@@ -1,3 +1,4 @@
 google.com, pub-2161060738184436, DIRECT, f08c47fec0942fa0
+chartboost.com, 694aeb7e051329efd733b71f, DIRECT, abc123def456
 applovin.com, 0, DIRECT
 unityads.com, 6016172, DIRECT
